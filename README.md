@@ -18,3 +18,7 @@ code .`
 
 ## LICENCE
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[patika.dev](https://www.patika.dev/tr)
+
+![KODLUYORUZ](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
